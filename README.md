@@ -1,6 +1,5 @@
 ### Hi there 👋
 
-Welcome! 
 
 My CV: [click](https://quietpochatok.github.io/cv/)
 <!--
