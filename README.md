@@ -2,11 +2,6 @@
 
 Welcome! 
 
-I'm learning programming now (that's cool). 
-
-Language: Ruby / RoR. I want to become and work as a junior Ruby / RoR ​​programmer. 
-So far, there are only tutorial repositories here. And that's all for now :D
-
 My CV: [click](https://quietpochatok.github.io/cv/)
 <!--
 **quietpochatok/quietpochatok** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
