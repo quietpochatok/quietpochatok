@@ -1,4 +1,4 @@
-<h3> Hi👋 I'm Damir</h3>
+### Hi👋 I'm Damir 
 <p><em>Ruby/Ruby on Rails developer <img src="https://repository-images.githubusercontent.com/30962390/724e5100-9833-11e9-8add-73a6c5956c4b" width="20"> 
 </em></p>
 
