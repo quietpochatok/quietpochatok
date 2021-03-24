@@ -4,12 +4,12 @@
 
 #### My CV: [click](https://quietpochatok.github.io/cv/)
 
-<h3> 📫 Contacts </h3>
+#### 📫 Contacts 
 
 [![Linkedin: quiet-pochatok](https://img.shields.io/badge/-damir-blue?style=flat&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/quiet-pochatok/)](https://www.linkedin.com/in/quiet-pochatok/)
 [![Telegram: quiet_pochatok](https://img.shields.io/badge/-quiet_pochatok-white?style=flat&logo=telegram&logoColor=black&link=https://t.me/quiet_pochatok)](https://t.me/quiet_pochatok/)
 
-<h3> 🔧 Technologies & Tools </h3>
+#### 🔧 Technologies & Tools 
 
 ![](https://img.shields.io/badge/OS-Linux-informational?style=flat&logo=linux&logoColor=white&color=0076D6)
 ![](https://img.shields.io/badge/Editors-Sublime_Text_|_RubyMine-informational?style=flat&logo=visual-studio-code&logoColor=white&color=0076D6)
@@ -21,17 +21,19 @@
 <h4> &#x1f4c8; GitHub Stats </h4>
 
 <a href="https://github.com/quietpochatok/quietpochatok">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=quietpochatok&hide=c%2B%2B,c,html&title_color=6aa6f8&text_color=8a919a&icon_color=6aa6f8&bg_color=0e1116" alt="rust-am's github stats" />
+  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=quietpochatok&hide=c%2B%2B,c,html&title_color=6aa6f8&text_color=8a919a&icon_color=6aa6f8&bg_color=0e1116" alt="quietpochatok's github stats" />
 </a>
 
 <a href="https://github.com/quietpochatok/quietpochatok">
-  <img align="center" src="https://github-readme-stats.vercel.app/api?username=quietpochatok&show_icons=true&line_height=27&count_private=true&title_color=6aa6f8&text_color=8a919a&icon_color=6aa6f8&bg_color=0e1116" alt="rust-am's github stats" />
+  <img align="center" src="https://github-readme-stats.vercel.app/api?username=quietpochatok&show_icons=true&line_height=27&count_private=true&title_color=6aa6f8&text_color=8a919a&icon_color=6aa6f8&bg_color=0e1116" alt="quietpochatok's github stats" />
 </a>
 
-### ![](https://visitor-badge.glitch.me/badge?page_id=quietpochatok.quietpochatok)
+
+
+
 <!--
 **quietpochatok/quietpochatok** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
+### ![](https://visitor-badge.glitch.me/badge?page_id=quietpochatok.quietpochatok)
 Here are some ideas to get you started:
 
 - 🔭 I’m currently working on ...
