@@ -2,12 +2,9 @@
 <p><em>Ruby/Ruby on Rails developer <img src="https://repository-images.githubusercontent.com/30962390/724e5100-9833-11e9-8add-73a6c5956c4b" width="20"> 
 </em></p>
 
-#### My CV: [click](https://quietpochatok.github.io/cv/)
-
 #### 📫 Contacts 
 
 [![Linkedin: quiet-pochatok](https://img.shields.io/badge/-damir-blue?style=flat&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/quiet-pochatok/)](https://www.linkedin.com/in/quiet-pochatok/)
-[![Telegram: quiet_pochatok](https://img.shields.io/badge/-quiet_pochatok-white?style=flat&logo=telegram&logoColor=black&link=https://t.me/quiet_pochatok)](https://t.me/quiet_pochatok/)
 
 #### 🔧 Technologies & Tools 
 
